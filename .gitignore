@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset (MVTec-AD is not yours to redistribute — link to official source in README instead)
+data/
+
+# Checkpoints - decide based on file size check below
+# checkpoints/
+
+# Generated outputs (optional - keep if you want them in the repo as demo proof)
+# sample_batch.png
+# heatmaps.png
+# results/
